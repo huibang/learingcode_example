@@ -1,0 +1,3 @@
+git test
+使用jdk的bin目录下的keytool.exe 生成 秘钥
+将其拷贝到springboot项目的resource目录下，属性文件配置好路径等相关信息
